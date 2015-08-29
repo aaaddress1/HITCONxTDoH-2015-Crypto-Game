@@ -72,19 +72,6 @@ LeaveFunc:
 }
 
 /*=======================================Juke-Trick-Start=======================================*/
-
-/* 
-ror eax, 02 = \xC1\xc8\x02 
-ror ecx, 02 = \xC1\xc9\x02
-ror edx, 02 = \xC1\xca\x02
-ror ebx, 02 = \xC1\xcb\x02
-
-scasd = \xAF
-stosb = \xAA
-lodsb = \xAC
-
-ret = \x5D\xC3
-*/
 void JunkCode()
 {
 	int Var = 0;
