@@ -1,2 +1,2 @@
 # HITCONxTDoH-2015-Crypto-Game
-![alt](Demo.png)
+![alt](DEMO.png)
